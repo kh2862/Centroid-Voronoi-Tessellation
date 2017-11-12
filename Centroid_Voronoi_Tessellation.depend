@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1509892431 source:d:\comp science by prof. du\homework4\new\centroid_voronoi_tessellation\centroid_voronoi_tessellation.cpp
+	"geometry.h"
+	"Voronoi_Tessellation.h"
+	"Centroid_Voronoi_Tessellation.h"
+
+1510039871 d:\comp science by prof. du\homework4\new\centroid_voronoi_tessellation\geometry.h
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+
+1510064901 d:\comp science by prof. du\homework4\new\centroid_voronoi_tessellation\voronoi_tessellation.h
+	"geometry.h"
+	<vector>
+	<queue>
+	<deque>
+	<string>
+	<fstream>
+	<cmath>
+	<ext/rope>
+
+1509807931 d:\comp science by prof. du\homework4\new\centroid_voronoi_tessellation\centroid_voronoi_tessellation.h
+	"geometry.h"
+	"Voronoi_Tessellation.h"
+
+1510064330 source:d:\comp science by prof. du\homework4\new\centroid_voronoi_tessellation\geometry.cpp
+	"geometry.h"
+
+1510038700 source:d:\comp science by prof. du\homework4\new\centroid_voronoi_tessellation\main.cpp
+	"geometry.h"
+	"Voronoi_Tessellation.h"
+	"Centroid_Voronoi_Tessellation.h"
+
+1510074216 source:d:\comp science by prof. du\homework4\new\centroid_voronoi_tessellation\voronoi_tessellation.cpp
+	"geometry.h"
+	"Voronoi_Tessellation.h"
+
